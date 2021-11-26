@@ -1,4 +1,6 @@
-# XOSL
+# Grass OSL
+
+此代码由XOSL分支而来
 
 This is the source code for Extended Operating System Loader (XOSL).
 
